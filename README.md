@@ -1,5 +1,12 @@
 # Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19
 
+## Ohjeet
+
+Kurssin ensimmäisellä päivällä luodaan omat GitHub Repositoriot, mikäli sinulla ei ole vielä GitHub tunnuksia, luo sellaiset.
+Kun olet kirjautunut GitHub tunnuksilla sisään, voit Forkata tämän repositorion. Forkkaus tarkoittaa repositorion kloonausta omaan käyttöön, ja se tapahtuu kun painaa ylä-oikealla sijaitsevaa [Fork] näppäintä.
+
+
+
 ## Aikataulu
 
 | Päivä |	Viikonpäivä |	Alkaa |	Päättyy |	Tapaamisen aihe |
