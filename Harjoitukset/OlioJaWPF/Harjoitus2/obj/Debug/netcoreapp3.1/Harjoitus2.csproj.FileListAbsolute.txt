@@ -1,0 +1,13 @@
+C:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harjoitukset\OlioJaWPF\Harjoitus2\bin\Debug\netcoreapp3.1\Harjoitus2.exe
+C:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harjoitukset\OlioJaWPF\Harjoitus2\bin\Debug\netcoreapp3.1\Harjoitus2.deps.json
+C:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harjoitukset\OlioJaWPF\Harjoitus2\bin\Debug\netcoreapp3.1\Harjoitus2.runtimeconfig.json
+C:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harjoitukset\OlioJaWPF\Harjoitus2\bin\Debug\netcoreapp3.1\Harjoitus2.runtimeconfig.dev.json
+C:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harjoitukset\OlioJaWPF\Harjoitus2\bin\Debug\netcoreapp3.1\Harjoitus2.dll
+C:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harjoitukset\OlioJaWPF\Harjoitus2\bin\Debug\netcoreapp3.1\Harjoitus2.pdb
+C:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harjoitukset\OlioJaWPF\Harjoitus2\obj\Debug\netcoreapp3.1\Harjoitus2.csprojAssemblyReference.cache
+C:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harjoitukset\OlioJaWPF\Harjoitus2\obj\Debug\netcoreapp3.1\Harjoitus2.AssemblyInfoInputs.cache
+C:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harjoitukset\OlioJaWPF\Harjoitus2\obj\Debug\netcoreapp3.1\Harjoitus2.AssemblyInfo.cs
+C:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harjoitukset\OlioJaWPF\Harjoitus2\obj\Debug\netcoreapp3.1\Harjoitus2.csproj.CoreCompileInputs.cache
+C:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harjoitukset\OlioJaWPF\Harjoitus2\obj\Debug\netcoreapp3.1\Harjoitus2.dll
+C:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harjoitukset\OlioJaWPF\Harjoitus2\obj\Debug\netcoreapp3.1\Harjoitus2.pdb
+C:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harjoitukset\OlioJaWPF\Harjoitus2\obj\Debug\netcoreapp3.1\Harjoitus2.genruntimeconfig.cache
