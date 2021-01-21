@@ -6,6 +6,7 @@ namespace Harjoitus_3__KT_
 {
     class Kiuas
     {
+        bool isKiuasPäällä = true;
         public string Nimi { get; set; }
         public string Tila { get; set; }
         public int Lämpö { get; set; }
@@ -16,8 +17,9 @@ namespace Harjoitus_3__KT_
             Console.WriteLine("Sauna");
             Console.WriteLine("-- Kiuas: " + Nimi);
             Console.WriteLine("-- Lämpö: " + Lämpö);
-            Console.WriteLine("-- Tila: " + Tila);
+            Console.WriteLine("-- Tila: " + isKiuasPäällä);
             Console.WriteLine("-- Kosteus: " + Kosteus);
+
         }
 
 

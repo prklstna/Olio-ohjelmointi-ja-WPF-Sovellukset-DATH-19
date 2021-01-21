@@ -6,6 +6,7 @@ namespace Harjoitus_3__KT_
     {
         static void Main(string[] args)
         {
+            
             Kiuas kiuas = new Kiuas();
 
             kiuas.Nimi = "Harvia";
