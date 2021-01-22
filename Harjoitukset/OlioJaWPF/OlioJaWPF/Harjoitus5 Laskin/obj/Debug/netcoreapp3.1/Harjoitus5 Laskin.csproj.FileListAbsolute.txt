@@ -1,0 +1,13 @@
+C:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harjoitukset\OlioJaWPF\OlioJaWPF\Harjoitus5 Laskin\bin\Debug\netcoreapp3.1\Harjoitus5 Laskin.exe
+C:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harjoitukset\OlioJaWPF\OlioJaWPF\Harjoitus5 Laskin\bin\Debug\netcoreapp3.1\Harjoitus5 Laskin.deps.json
+C:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harjoitukset\OlioJaWPF\OlioJaWPF\Harjoitus5 Laskin\bin\Debug\netcoreapp3.1\Harjoitus5 Laskin.runtimeconfig.json
+C:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harjoitukset\OlioJaWPF\OlioJaWPF\Harjoitus5 Laskin\bin\Debug\netcoreapp3.1\Harjoitus5 Laskin.runtimeconfig.dev.json
+C:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harjoitukset\OlioJaWPF\OlioJaWPF\Harjoitus5 Laskin\bin\Debug\netcoreapp3.1\Harjoitus5 Laskin.dll
+C:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harjoitukset\OlioJaWPF\OlioJaWPF\Harjoitus5 Laskin\bin\Debug\netcoreapp3.1\Harjoitus5 Laskin.pdb
+C:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harjoitukset\OlioJaWPF\OlioJaWPF\Harjoitus5 Laskin\obj\Debug\netcoreapp3.1\Harjoitus5 Laskin.csprojAssemblyReference.cache
+C:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harjoitukset\OlioJaWPF\OlioJaWPF\Harjoitus5 Laskin\obj\Debug\netcoreapp3.1\Harjoitus5 Laskin.AssemblyInfoInputs.cache
+C:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harjoitukset\OlioJaWPF\OlioJaWPF\Harjoitus5 Laskin\obj\Debug\netcoreapp3.1\Harjoitus5 Laskin.AssemblyInfo.cs
+C:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harjoitukset\OlioJaWPF\OlioJaWPF\Harjoitus5 Laskin\obj\Debug\netcoreapp3.1\Harjoitus5 Laskin.csproj.CoreCompileInputs.cache
+C:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harjoitukset\OlioJaWPF\OlioJaWPF\Harjoitus5 Laskin\obj\Debug\netcoreapp3.1\Harjoitus5 Laskin.dll
+C:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harjoitukset\OlioJaWPF\OlioJaWPF\Harjoitus5 Laskin\obj\Debug\netcoreapp3.1\Harjoitus5 Laskin.pdb
+C:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harjoitukset\OlioJaWPF\OlioJaWPF\Harjoitus5 Laskin\obj\Debug\netcoreapp3.1\Harjoitus5 Laskin.genruntimeconfig.cache

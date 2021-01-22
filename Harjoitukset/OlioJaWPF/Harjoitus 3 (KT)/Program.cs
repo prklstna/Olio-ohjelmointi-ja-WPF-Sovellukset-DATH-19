@@ -7,14 +7,19 @@ namespace Harjoitus_3__KT_
         static void Main(string[] args)
         {
             
-            Kiuas kiuas = new Kiuas();
+            Kiuas kiuas = new Kiuas("Harvia");
 
-            kiuas.Nimi = "Harvia";
-            kiuas.Lämpö = 80;
-            kiuas.Tila = "Päällä";
-            kiuas.Kosteus = 15;
 
             kiuas.TulostaData();
+
+            kiuas.MuutaLämpötilaa(70);
+
+            kiuas.KiuasOnOff(true);
+            kiuas.MuutaLämpötilaa(70);
+            kiuas.MuutaKosteutta(90);
+
+            kiuas.TulostaData();
+
 
             string kiuasTiedot = kiuas.ToString();
             Console.WriteLine(kiuasTiedot);

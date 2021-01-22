@@ -1,0 +1,13 @@
+C:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harjoitukset\OlioJaWPF\OlioJaWPF\StaticTest\obj\Debug\netcoreapp3.1\StaticTest.csprojAssemblyReference.cache
+C:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harjoitukset\OlioJaWPF\OlioJaWPF\StaticTest\obj\Debug\netcoreapp3.1\StaticTest.AssemblyInfoInputs.cache
+C:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harjoitukset\OlioJaWPF\OlioJaWPF\StaticTest\obj\Debug\netcoreapp3.1\StaticTest.AssemblyInfo.cs
+C:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harjoitukset\OlioJaWPF\OlioJaWPF\StaticTest\obj\Debug\netcoreapp3.1\StaticTest.csproj.CoreCompileInputs.cache
+C:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harjoitukset\OlioJaWPF\OlioJaWPF\StaticTest\bin\Debug\netcoreapp3.1\StaticTest.exe
+C:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harjoitukset\OlioJaWPF\OlioJaWPF\StaticTest\bin\Debug\netcoreapp3.1\StaticTest.deps.json
+C:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harjoitukset\OlioJaWPF\OlioJaWPF\StaticTest\bin\Debug\netcoreapp3.1\StaticTest.runtimeconfig.json
+C:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harjoitukset\OlioJaWPF\OlioJaWPF\StaticTest\bin\Debug\netcoreapp3.1\StaticTest.runtimeconfig.dev.json
+C:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harjoitukset\OlioJaWPF\OlioJaWPF\StaticTest\bin\Debug\netcoreapp3.1\StaticTest.dll
+C:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harjoitukset\OlioJaWPF\OlioJaWPF\StaticTest\bin\Debug\netcoreapp3.1\StaticTest.pdb
+C:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harjoitukset\OlioJaWPF\OlioJaWPF\StaticTest\obj\Debug\netcoreapp3.1\StaticTest.dll
+C:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harjoitukset\OlioJaWPF\OlioJaWPF\StaticTest\obj\Debug\netcoreapp3.1\StaticTest.pdb
+C:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harjoitukset\OlioJaWPF\OlioJaWPF\StaticTest\obj\Debug\netcoreapp3.1\StaticTest.genruntimeconfig.cache

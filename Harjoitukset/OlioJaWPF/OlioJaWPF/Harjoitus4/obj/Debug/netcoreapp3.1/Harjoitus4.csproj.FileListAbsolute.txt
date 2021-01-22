@@ -1,0 +1,4 @@
+C:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harjoitukset\OlioJaWPF\OlioJaWPF\Harjoitus4\obj\Debug\netcoreapp3.1\Harjoitus4.csprojAssemblyReference.cache
+C:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harjoitukset\OlioJaWPF\OlioJaWPF\Harjoitus4\obj\Debug\netcoreapp3.1\Harjoitus4.AssemblyInfoInputs.cache
+C:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harjoitukset\OlioJaWPF\OlioJaWPF\Harjoitus4\obj\Debug\netcoreapp3.1\Harjoitus4.AssemblyInfo.cs
+C:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harjoitukset\OlioJaWPF\OlioJaWPF\Harjoitus4\obj\Debug\netcoreapp3.1\Harjoitus4.csproj.CoreCompileInputs.cache
